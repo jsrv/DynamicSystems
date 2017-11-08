@@ -1,0 +1,54 @@
+10/06/17 11:43
+
+Prob1 (2 points):
+Score += 2
+
+Prob2 (2 points):
+Score += 2
+
+Prob3 (2 points):
+Score += 2
+
+Prob4 (2 points):
+Score += 0
+
+Prob5 (2 points):
+Score += 0
+
+Prob6 (2 points):
+Score += 0
+
+Total score: 6/12 = 50.0%
+
+
+Comments:
+	4-6 no code
+
+-------------------------------------------------------------------------------
+
+10/16/17 08:57
+
+Prob1 (2 points):
+Score += 2
+
+Prob2 (2 points):
+Score += 2
+
+Prob3 (2 points):
+Score += 2
+
+Prob4 (2 points):
+Score += 2
+
+Prob5 (2 points):
+Score += 2
+
+Prob6 (2 points):
+Score += 2
+
+Total score: 12/12 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

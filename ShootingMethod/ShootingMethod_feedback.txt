@@ -1,0 +1,34 @@
+09/22/17 13:48
+
+prob1 (3 points):
+Score += 3
+
+prob2 (3 points):
+Turn the second order diff eq for z" into a system of 2 first order diff eq.
+Score += 1
+
+prob3 (4 points):
+no code
+Score += 0
+
+Total score: 4/10 = 40.0%
+
+-------------------------------------------------------------------------------
+
+10/02/17 11:34
+
+prob1 (3 points):
+Score += 3
+
+prob2 (3 points):
+Score += 3
+
+prob3 (4 points):
+Score += 4
+
+Total score: 10/10 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

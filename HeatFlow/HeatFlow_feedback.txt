@@ -1,0 +1,17 @@
+11/06/17 12:31
+
+prob1 (3 points):
+Score += 3
+
+prob2 (4 points):
+Don't forget to graph the econd part
+Score += 2
+
+prob3 (3 points):
+no code
+Score += 0
+
+Total score: 5/10 = 50.0%
+
+-------------------------------------------------------------------------------
+
